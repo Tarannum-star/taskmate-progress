@@ -124,6 +124,4 @@ This project is **free to use** and distributed under the MIT License. See the [
 
 ---
 
-If you find this project helpful or have any questions, feel free to reach out on LinkedIn/Twitter!
-
 **Happy Coding!**
