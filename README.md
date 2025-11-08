@@ -1,7 +1,7 @@
 
 # Set React App
 
-**Author:** [Shubham Sarda](https://www.linkedin.com/in/shubhamsarda/) / [@shubham_ul](https://x.com/shubham_ul)  
+
 
 ---
 
